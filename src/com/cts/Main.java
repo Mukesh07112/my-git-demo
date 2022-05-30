@@ -9,7 +9,7 @@ public class Main {
 		System.out.println("hello mukesh");
 		
 		Someservice ss=new Someservice();
-		System.out.println(ss.findLength("Program"));
+		System.out.println(ss.findLength("Program "));
 		
 		}
 
